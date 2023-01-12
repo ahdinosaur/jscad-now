@@ -26,7 +26,8 @@
     "browserify-css": "^0.15.0",
     "budo": "^11.6.4",
     "most-gestures": "^0.4.1",
-    "nanohtml": "^1.9.1"
+    "nanohtml": "^1.9.1",
+    "tsify": "^5.0.4"
   },
   "devDependencies": {
     "@jscad/modeling": "^2.0.0-alpha.10"
